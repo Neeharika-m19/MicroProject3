@@ -83,8 +83,8 @@ MicroProject3/
 
     ```bash
     npm start or node Server.js
-    The app will listen on http://localhost:5000/
     ```
+    The app will listen on http://localhost:5000/
 ## 📡 Routes & Usage
 
 | Method | Path              | Description                                 |
